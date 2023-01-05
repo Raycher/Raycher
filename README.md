@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Raycher
-- 👀 I’m interested in Software Development, UI/UX Design, Business Analysis, System Analysis, 
-- 🌱 I’m currently learning C++, BPMN, UML
+- 👋 Hi, I’m Gia!
+- 👀 I’m interested in everything.
+- 🌱 I’m currently learning everything.
 - 💞️ I’m looking to collaborate on any interesting project.
-- 📫 Reach me on twitter: @giarcheuli
+- 📫 You can reach out to me here or on twitter @giarcheuli
