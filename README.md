@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Gia!
-- 👀 I’m interested in everything.
-- 🌱 I’m currently learning everything.
-- 💞️ I’m looking to collaborate on any interesting project.
-- 📫 You can reach out to me here or on twitter @giarcheuli
+Business Analyst, Technical Writer, Visionaire
