@@ -1,1 +1,1 @@
-Business Analyst, Technical Writer, Visionaire
+Business Analyst, Technical Writer, Visionary
